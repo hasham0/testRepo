@@ -1,0 +1,1 @@
+git init => wite code => git add file name => git commit -m "message" => git add origin url =>if head master then git branch -M main =>git push -u origin main
